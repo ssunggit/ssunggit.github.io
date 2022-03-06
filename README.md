@@ -19,7 +19,6 @@
 
 <hr><br>
 ## github
-[깃헙](https://github.com/ssunggit/)
-
+[박현성의 깃허브](https://github.com/ssunggit/)
 
 <br><br>
